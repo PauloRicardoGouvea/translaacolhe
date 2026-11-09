@@ -1,0 +1,18 @@
+GUIA DE SIGLAS BUROCRÁTICAS E INSTITUIÇÕES NO BRASIL
+
+Editais e documentos públicos brasileiros usam siglas constantemente. Este guia serve para mapear o significado e a função de cada uma.
+
+1. DOCUMENTOS DE IDENTIFICAÇÃO DO IMIGRANTE
+- RNM (Registro Nacional Migratório): O documento oficial de identidade do imigrante no Brasil (antigo RNE - Registro Nacional de Estrangeiro). É o número principal exigido em editais.
+- DPRF (Documento Provisório de Registro Nacional Migratório): Protocolo emitido para quem solicitou refúgio, válido como identidade provisória até a emissão da RNM.
+- CPF (Cadastro de Pessoas Físicas): Documento essencial para qualquer ato civil no Brasil (abrir conta, se inscrever em concursos, trabalhar). É um número de 11 dígitos emitido pela Receita Federal.
+
+2. ASSISTÊNCIA SOCIAL E COMPROVAÇÃO DE RENDA
+- CadÚnico (Cadastro Único): Banco de dados do governo federal para famílias de baixa renda. Ter o CadÚnico gera o NIS (Número de Identificação Social), crucial para conseguir a "Isenção de Taxa" em concursos.
+- CRAS (Centro de Referência de Assistência Social): Unidade pública onde o imigrante faz o CadÚnico e recebe apoio social.
+- CREAS (Centro de Referência Especializado de Assistência Social): Atende pessoas em situação de violação de direitos (violência, exploração, situação de rua).
+
+3. ORGÃOS DE APOIO JURÍDICO E MIGRATÓRIO
+- DPU (Defensoria Pública da União): Advogados gratuitos do governo federal. Ajudam imigrantes com problemas de documentação, regularização migratória e recursos contra exclusões injustas em concursos.
+- CONARE (Comitê Nacional para os Refugiados): Órgão que analisa os pedidos de refúgio no Brasil.
+- PF (Polícia Federal): Órgão responsável pela emissão de documentos migratórios (RNM) e controle de fronteiras.

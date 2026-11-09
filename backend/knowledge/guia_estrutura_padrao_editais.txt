@@ -1,0 +1,23 @@
+MAPA ESTRUTURAL E CRONOGRAMA DE EDITAIS PÚBLICOS BRASILEIROS
+
+Este guia ajuda a IA a mapear visualmente a ordem lógica e as seções mais importantes de um edital de concurso ou processo seletivo no Brasil, facilitando a extração rápida de alertas para o usuário.
+
+1. DISPOSIÇÕES PRELIMINARES E CARGOS
+- Geralmente localizadas no início (Capítulo 1 ou 2). Define quem organiza o concurso (banca examinadora como FGV, Cebraspe, FCC, etc.), o número de vagas, a carga horária e os salários (vencimentos).
+
+2. REQUISITOS BÁSICOS PARA A INVESTIDURA/POSSE
+- Nacionalidade: A Constituição Federal permite o acesso de estrangeiros a cargos públicos na forma da lei. Editais para Universidades Federais (professores e técnicos) aceitam estrangeiros amplamente. Concursos civis gerais frequentemente exigem nacionalidade brasileira ou portuguesa (com estatuto de igualdade) ou naturalização concluída.
+- Documentação: Estar em dia com as obrigações eleitorais e militares (aplica-se apenas aos imigrantes naturalizados brasileiros). Ter a RNM/CRNM válida.
+
+3. SISTEMA DE RESERVA DE VAGAS (COTAS)
+- Pessoas com Deficiência (PCD): Geralmente reservam 5% ou mais das vagas. Requer envio de laudo médico com CID em português.
+- Cotas Raciais (Pretos e Pardos): Geralmente reservam 20% das vagas. O imigrante negro (ex: de origem africana ou caribenha) tem direito a se autodeclarar.
+- Banca de Heteroidentificação: O candidato que concorre às cotas precisa passar por uma entrevista presencial ou enviar fotos/vídeos para uma banca confirmar os traços fenotípicos (características físicas). O não comparecimento elimina o candidato das cotas.
+
+4. FASES DO CONCURSO E PROVAS
+- Prova Objetiva: Teste de múltipla escolha ou formato Certo/Errado.
+- Prova Discursiva/Redação: Redação em língua portuguesa, exigência comum e eliminatória.
+- Prova de Títulos: Fase classificatória onde diplomas e tempo de serviço contam pontos extras.
+
+5. O CRONOGRAMA DE RECURSOS (A parte mais crítica)
+- Burocracia de Recursos: Para cada fase (Inscrição, Isenção, Gabarito, Nota da Prova), a banca publica um resultado provisório. Abre-se uma janela de 2 dias úteis para RECURSOS. Se perder esse prazo, o candidato aceita a eliminação ou o erro da banca.

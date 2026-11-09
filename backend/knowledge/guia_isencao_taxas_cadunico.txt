@@ -1,0 +1,24 @@
+GUIA DE ISENÇÃO DE TAXA DE INSCRIÇÃO EM CONCURSOS E PROCESSO SELETIVOS VIA CADÚNICO
+
+Este guia detalha o funcionamento do benefício de isenção de taxas por baixa renda, um direito fundamental para imigrantes e refugiados vulneráveis no Brasil, e como os editais tratam esse processo.
+
+1. O PAPEL DO CADÚNICO E DO NIS
+- CadÚnico (Cadastro Único para Programas Sociais): Banco de dados que identifica as famílias de baixa renda no Brasil.
+- NIS (Número de Identificação Social): Código de 11 dígitos gerado ao se cadastrar no CadÚnico. É o número que o candidato deve informar na tela de inscrição do concurso para pedir a isenção.
+
+2. REQUISITOS LEGAIS PARA ISENÇÃO (Decreto Federal nº 6.593/2008)
+- Estar inscrito no CadÚnico com cadastro atualizado.
+- Renda familiar per capita (por pessoa) de até meio salário mínimo OU renda familiar total de até 3 salários mínimos.
+- Antecedência: O cadastro no CadÚnico precisa ter sido processado na base nacional há, no mínimo, 45 dias antes da solicitação da isenção. Cadastros muito recentes costumam dar erro de "NIS não cadastrado".
+
+3. O ERRO MAIS COMUM: DIVERGÊNCIA DE DADOS
+- Regra de Ouro: Todos os dados informados na inscrição do concurso devem ser EXATAMENTE IGUAIS aos dados cadastrados no CadÚnico do Governo Federal.
+- Pontos Críticos de Erro:
+  * Nome completo do candidato (erros de grafia, acentos ou sobrenomes).
+  * Nome completo da mãe (muito comum imigrantes terem problemas de preenchimento ou falta do nome materno nos sistemas).
+  * Data de nascimento e CPF.
+- Consequência: Se houver uma letra diferente, o sistema do concurso dará o pedido como INDEFERIDO por "Divergência de Dados".
+
+4. PRAZOS DE RECURSO DA ISENÇÃO
+- O período para pedir a isenção costuma ser logo nos primeiros dias de abertura do concurso e dura pouco tempo (geralmente de 3 a 5 dias).
+- Se o pedido for INDEFERIDO, o candidato tem apenas 2 a 3 dias úteis para "Interpor Recurso" (contestar o erro) ou pagar a taxa para não ser eliminado.
